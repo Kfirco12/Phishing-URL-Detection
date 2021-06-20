@@ -1,2 +1,10 @@
 # Phishing-URL-detection
-Implementation of  phishing URL detection classifier using Random Forest 
+An implemention of the proposed algorithm in the paper: 
+"Malicious URLs Detection Using Decision Tree Classifiers and Majority Voting Technique", by D. Patil and J. Patil
+
+I only used url features, without web-content features.The model I implemented is Random Forrest.
+
+
+Link to the paper: https://www.researchgate.net/publication/324014302_Malicious_URLs_Detection_Using_Decision_Tree_Classifiers_and_Majority_Voting_Technique
+
+Link to the Dataset: https://research.aalto.fi/en/datasets/phishstorm-phishing-legitimate-url-dataset
